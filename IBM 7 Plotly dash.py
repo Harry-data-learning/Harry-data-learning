@@ -12,7 +12,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 
 # Load dataset
-df = pd.read_csv("spacex_launch_dash.csv")
+df = pd.read_csv("https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv")
 
 # Extract payload range boundaries
 min_payload = df['Payload Mass (kg)'].min()
