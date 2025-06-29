@@ -97,4 +97,4 @@ def update_scatter_plot(selected_site, payload_range):
 
 # Run app
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
