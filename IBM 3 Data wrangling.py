@@ -1,6 +1,6 @@
 # ----------------------------------------------------------
 # SpaceX Rocket Launch Data Project Script 3
-# Purpose: Perform Exploratory Data Analysis (EDA) and generate landing class labels
+# Purpose: Perform Data wrangling and generate landing class labels
 # Key Concepts: value_counts analysis, classification label generation, data export
 # Author: Harry.Zhang
 # ----------------------------------------------------------
